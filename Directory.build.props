@@ -1,0 +1,12 @@
+﻿<Project>
+  <PropertyGroup>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <VersionSuffix></VersionSuffix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Copyright>Copyright 2018</Copyright>
+    <Authors>Tairan Wang</Authors>
+    <RepositoryUrl>https://github.com/tairan/dotnet-tpl.git</RepositoryUrl>
+  </PropertyGroup>
+</Project>
